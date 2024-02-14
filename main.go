@@ -6,6 +6,8 @@ import (
 	"log"
 	"errors"
 )
+
+// test with new git config
 var (
     category string
     severityLevel int
